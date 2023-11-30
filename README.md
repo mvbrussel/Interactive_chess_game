@@ -1,6 +1,6 @@
 This is a chess game made with pygame.
 
-To run the game, open a terminal window and navigate to the directory where the code is saved. Then type the following command:
+You can run the game by navigating to the directory where the code is saved and typing the following command:
 
 ```
 python main.py
